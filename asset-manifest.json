@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactmywebsite/static/css/main.87022307.css",
+    "main.js": "/reactmywebsite/static/js/main.31aad371.js",
+    "static/media/Marketing.jpg": "/reactmywebsite/static/media/Marketing.f0728ae9eb69d41ac1e6.jpg",
+    "static/media/nature-image.jpg": "/reactmywebsite/static/media/nature-image.6c56828024f38d55db97.jpg",
+    "index.html": "/reactmywebsite/index.html",
+    "main.87022307.css.map": "/reactmywebsite/static/css/main.87022307.css.map",
+    "main.31aad371.js.map": "/reactmywebsite/static/js/main.31aad371.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87022307.css",
+    "static/js/main.31aad371.js"
+  ]
+}
